@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 571674 */
+    src: url('https://at.alicdn.com/t/font_571674_wpgsreafzksjdcxr.eot');
+    src: url('https://at.alicdn.com/t/font_571674_wpgsreafzksjdcxr.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_571674_wpgsreafzksjdcxr.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_571674_wpgsreafzksjdcxr.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_571674_wpgsreafzksjdcxr.svg#iconfont') format('svg');
+}
+.top{
+    width: 100%;
+    height: 1.3rem;
+    background-color: #F9F9F9;
+    text-align: center;
+    line-height: 1.3rem;
+    font-size: 0.5rem;
+    color: #535353;
+}
+.shangpin{
+    width: 100%;
+    height: 3.3rem;
+    background-color: #fff;
+
+}
+
+
+.dibu{
+    width: 100%;
+    height: 1.41rem;
+    padding-left: 0.93rem;
+    padding-right: 0.93rem;
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.sy{
+    width: 0.86rem;
+    padding-top: 0.12rem;
+    float: left;
+}
+.sy p{
+    font-family: 'iconfont';
+    font-size: 0.58rem;
+    color: #BDBDBD;
+    text-align: center;
+}
+.sy3 p{
+    color: #F89597;
+}
+.sy h1{
+    font-size: 0.4rem;
+    color: #BDBDBD;
+    text-align: center;
+}
+.sy1{
+    width: 0.86rem;
+    padding-top: 0.12rem;
+    /* float: left; */
+    margin: 0 auto;
+}
+.sy1 p{
+    font-family: 'iconfont';
+    font-size: 0.58rem;
+    color: #7D7D7D;
+    text-align: center;
+}
+.sy1 h1{
+    font-size: 0.4rem;
+    color: #BDBDBD;
+    text-align: center;
+}
+.sy2{
+    position: absolute;
+    top: 0;
+    right: 0.93rem;
+}
+.sy:hover .sy p{
+    color: #F89597;
+}
